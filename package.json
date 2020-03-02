@@ -1,7 +1,7 @@
 {
   "name": "constant-checker",
   "author": "Ashish Gupta",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A utility tool to check for constants",
   "main": "index.js",
   "scripts": {
