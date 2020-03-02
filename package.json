@@ -1,0 +1,18 @@
+{
+  "name": "constant-checker",
+  "author": "Ashish Gupta",
+  "version": "1.0.0",
+  "description": "A utility tool to check for constants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r esm index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "lodash": "^4.17.15",
+    "path": "^0.12.7",
+    "walk": "^2.3.14"
+  }
+}
